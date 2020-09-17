@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LGsg8BdFJA+6KZBT+bjKSE5ugjFVdYBR8Fj0BeKyAL5sWxj0zG+zQmoQvbGtfXfXAiMzt0NX5z2aITNDBBR6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jere\\source\\repos\\TP6\\TP6\\TP6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jere\\.nuget\\packages\\selenium.rc\\3.1.0\\selenium.rc.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\selenium.webdriver.chromedriver\\85.0.4183.8700\\selenium.webdriver.chromedriver.85.0.4183.8700.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\selenium.webdriverbackedselenium\\3.141.0\\selenium.webdriverbackedselenium.3.141.0.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Jere\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

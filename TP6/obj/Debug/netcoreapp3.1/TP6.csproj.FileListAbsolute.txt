@@ -1,0 +1,17 @@
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.exe
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.deps.json
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.json
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.dev.json
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.dll
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\Jere\source\repos\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.csprojAssemblyReference.cache
+C:\Users\Jere\source\repos\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfoInputs.cache
+C:\Users\Jere\source\repos\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfo.cs
+C:\Users\Jere\source\repos\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.dll
+C:\Users\Jere\source\repos\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\Jere\source\repos\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.genruntimeconfig.cache
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Jere\source\repos\TP6\TP6\obj\Debug\netcoreapp3.1\TP6.csproj.CopyComplete
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Jere\source\repos\TP6\TP6\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
